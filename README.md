@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-![CI](https://github.com/yuriytuk/ahj-DOM.git/actions/workflows/web.yml/badge.svg)
-=======
 ![CI](https://github.com/yuriytuk/ahj-DOM/actions/workflows/web.yml/badge.svg)
->>>>>>> 3aac956dd34c97e66f5f9775590f3d465818986e
 
-[![Build status](https://ci.appveyor.com/api/projects/status/nq9ips14dh8ck3qx?svg=true)](https://ci.appveyor.com/project/yuriytuk/ahj-dom)
+[![Build status](https://ci.appveyor.com/api/projects/status/76cf49timoq02t5t?svg=true)](https://ci.appveyor.com/project/yuriytuk/ahj-dom)
 
 Домашнее задание к занятию "2. DOM"
 Правила сдачи задания:
