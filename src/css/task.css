@@ -1,0 +1,45 @@
+.card {
+  width: 400px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.button_game {
+  background-color: #7c817c;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+.hole-game {
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.status {
+  margin-bottom: 20px;
+}
+.hole {
+  width: 150px;
+  height: 150px;
+  margin: 0 15px 30px;
+  background: gray;
+  border-radius: 50%;
+}
+
+.hole_has-mole {
+  background-image: url(https://github.com/netology-code/ahj-homeworks/raw/AHJ-50/dom/pic/goblin.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: brown;
+}
