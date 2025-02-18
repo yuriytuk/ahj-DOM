@@ -37,7 +37,7 @@
 }
 
 .hole_has-mole {
-  background-image: url(https://github.com/netology-code/ahj-homeworks/raw/AHJ-50/dom/pic/goblin.png);
+  background-image: url(../img/goblin.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
